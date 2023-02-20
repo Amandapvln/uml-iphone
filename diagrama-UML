@@ -1,0 +1,32 @@
++----------------+   
+|   MusicPlayer  |   
++----------------+   
+| + tocar()      |   
+| + pausar()     |   
+| + selecionarMusica()|
++----------------+   
+
+        ^  
+        |  
+        |  
++-------------------------+  
+|         iPhone          |  
++-------------------------+  
+| + ligar()               |  
+| + atender()             |  
+| + iniciarCorreioVoz()   |  
+| + exibirPagina()        |  
+| + adicionarNovaAba()    |  
+| + atualizarPagina()     |  
++-------------------------+  
+
+        ^  
+        |  
+        |  
++----------------+   
+|   WebBrowser   |   
++----------------+   
+| + exibirPagina()   |   
+| + adicionarNovaAba()   |   
+| + atualizarPagina()   |   
++----------------+   
